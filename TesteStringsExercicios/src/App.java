@@ -8,13 +8,6 @@ public class App {
         int dado = 0; 
         double dadoReal = 0 ; 
 
-       // System.out.println("Digite um texto: ");
-        //dadosEntrada = entrada.nextLine();
-
-        //System.out.println("Texto lido: ");
-        //System.out.println(dadosEntrada);
-
-
         System.out.println("Digite outro texto para separar dados por espacos");
          Scanner linhaLida = new Scanner(entrada.nextLine()); 
         while (linhaLida.hasNext()) {
