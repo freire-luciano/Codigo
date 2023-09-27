@@ -8,7 +8,7 @@ public class App {
         System.out.println(a1.getEndereco());
         System.out.println(a1.getRg());
         System.out.println(a1.getSexo());
-        System.out.println(a1.getCurso());
+        System.out.println(a1.getCurso);
 
 
         /* 
