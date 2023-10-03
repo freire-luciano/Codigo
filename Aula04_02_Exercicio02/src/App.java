@@ -10,7 +10,7 @@ public class App {
             System.out.println(v1.getNome());
         } else {
             if(v2.getPreco() > v3.getPreco()) {
-                System.out.println(v1.getNome());
+                System.out.println(v2.getNome());
             } else {
                 System.out.println(v3.getNome());
             }
